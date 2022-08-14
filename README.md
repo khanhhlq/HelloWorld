@@ -5,4 +5,4 @@
 - I need support from you 🚀🤘
 - Discord <a href="https://discord.gg/UzUPnj9m">👆</a> 
 
-<img src="https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2020/12/03130857/MVU-MSDSCI-2020-Q2-Skyscraper_-X-Types-of-Programming-Languages-for-Data-Science-header-v1.jpg">
+<img src="https://c4.wallpaperflare.com/wallpaper/186/119/589/8-bit-hello-world-minimalism-wallpaper-preview.jpg" with="100%">
