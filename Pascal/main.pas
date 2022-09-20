@@ -1,4 +1,5 @@
 Program main;
 begin
-	writeln('Hello World');
+ writeln('Hello World');
+ readln;
 end.
